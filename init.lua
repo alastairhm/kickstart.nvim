@@ -740,7 +740,7 @@ require('lazy').setup {
     config = function()
       -- Load the colorscheme here
       -- vim.cmd.colorscheme 'tokyonight-night'
-      vim.cmd.colorscheme 'industry'
+      vim.cmd.colorscheme 'slate'
 
       -- You can configure highlights by doing something like
       vim.cmd.hi 'Comment gui=none'
